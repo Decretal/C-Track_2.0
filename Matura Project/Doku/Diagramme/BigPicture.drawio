@@ -1,0 +1,147 @@
+<mxfile host="app.diagrams.net" modified="2024-03-19T20:24:29.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-K_V5mvQKYtjDUrpbf4M" version="24.0.7" type="onedrive">
+  <diagram name="Seite-1" id="KbpILENThxNt7EIQ6GHb">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ogu68mqCaCOpR1NrzorK-50" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.152;entryDx=0;entryDy=0;fontSize=12;shape=flexArrow;shadow=1;fillColor=#f5f5f5;strokeColor=#666666;entryPerimeter=0;" edge="1" parent="1" target="ogu68mqCaCOpR1NrzorK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="394" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="460" y="290" />
+              <mxPoint x="410" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-1" value="Sender" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=17;fontStyle=5;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="330" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-52" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;shape=flexArrow;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;exitX=1;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-3" target="ogu68mqCaCOpR1NrzorK-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="400" />
+            </Array>
+            <mxPoint x="720" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-3" value="Basisstation" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=17;fontStyle=5;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530" y="150" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;u&gt;Server&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="160" height="179.43" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-65" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;shape=flexArrow;startArrow=block;shadow=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-5" target="ogu68mqCaCOpR1NrzorK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-5" value="App" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontSize=17;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="330" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-6" target="ogu68mqCaCOpR1NrzorK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-6" target="ogu68mqCaCOpR1NrzorK-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.9976820208024" y="339.43000000000006" as="sourcePoint" />
+            <mxPoint x="300.28" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-6" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;ATMega 644&lt;br&gt;&lt;/b&gt;Prozessor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-9" target="ogu68mqCaCOpR1NrzorK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-9" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Elara I&lt;br&gt;&lt;/b&gt;GPS Modul" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="235" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;SD-Karte&lt;br&gt;&lt;/b&gt;&lt;/span&gt;Datenspeicherung in&lt;br&gt;kleineren Intervall" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Adafruit RFM95&lt;br&gt;&lt;/b&gt;&lt;/span&gt;Datenübertragung mit LoRa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;WLAN&lt;br&gt;&lt;/b&gt;&lt;/span&gt;Übermitteln der Daten" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="299.43" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-24" target="ogu68mqCaCOpR1NrzorK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ESP 32&lt;/b&gt;&lt;/span&gt;&lt;br&gt;empfangen der Daten" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-26" target="ogu68mqCaCOpR1NrzorK-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Semtech SX1276&lt;br&gt;&lt;/b&gt;&lt;/span&gt;LoRa Transceiver Modul" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-3" target="ogu68mqCaCOpR1NrzorK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-31" target="ogu68mqCaCOpR1NrzorK-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Laravel&lt;br&gt;&lt;/b&gt;&lt;/span&gt;Gesicherter Zugriff mit REST-API, Verwaltung der Daten&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="460" width="140" height="69.9" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-4" target="ogu68mqCaCOpR1NrzorK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-39" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;MariaDB&lt;br&gt;&lt;/b&gt;&lt;/span&gt;Speichern der Daten und Nutzerrechte&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="559.43" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-46" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-44" target="ogu68mqCaCOpR1NrzorK-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;C Batterie&lt;br&gt;&lt;/b&gt;&lt;/span&gt;3,3V Li-SOC Primärzelle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="175" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-45" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;TPS 6300X&lt;br&gt;&lt;/b&gt;&lt;/span&gt;Buck-Boost Converter&lt;br&gt;Versorgung der Platine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-51" value="LoRa®" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="430" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-54" value="UART" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="230" y="284.43" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-55" value="SPI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="270" y="355" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-56" value="SPI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="150" y="355" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-57" value="SPI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="600" y="205" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-60" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-58" target="ogu68mqCaCOpR1NrzorK-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-64" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-58" target="ogu68mqCaCOpR1NrzorK-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-58" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Flutter&lt;br&gt;&lt;/b&gt;&lt;/span&gt;Framework für Appentwicklung" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490.00000000000006" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-59" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;HTTP package&lt;br&gt;&lt;/b&gt;Kommunikation mit Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-63" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="ogu68mqCaCOpR1NrzorK-61" target="ogu68mqCaCOpR1NrzorK-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-61" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;flutter_map&lt;br&gt;&lt;/b&gt;&lt;/span&gt;Erleichterung der Landkartenintegration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="569.43" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-62" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Openstreetmap&lt;br&gt;&lt;/b&gt;&lt;/span&gt;Frei nutzbare Landkarten" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="569.43" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-66" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogu68mqCaCOpR1NrzorK-67" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

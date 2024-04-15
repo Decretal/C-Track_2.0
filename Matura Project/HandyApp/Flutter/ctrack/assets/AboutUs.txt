@@ -1,0 +1,12 @@
+Über das Team:
+
+ - Samuel Putz: Entwurf der Hardware-Komponenten und der Smartphone App
+ - Simon König: Entwurf der Systemsoftware und der Datenbank
+
+Über das Projekt: 
+
+Dieses Maturaprojekt wurde im Vorjahr initiiert, jedoch blieb es unvollendet. Die Bedeutung dieses Projekts für die Forschung am Zentrum für Geoinformatik (ZGIS) sowie für Bauern in alpinen Regionen ist von großer Tragweite. Aus diesem Grund haben wir es uns zur Aufgabe gemacht, dieses Projekt fortzusetzen, restrukturieren und zu optimieren.
+
+Die genaue Lokalisierung von Nutztieren in alpinen Lagen ist von großem praktischen als auch von wissenschaftlichem Interesse. Derzeit am Markt befindliche Lösungen sind technisch unausgereift oder dementsprechend teuer. Deshalb sollte eine einfache und robuste Lokalisierungseinheit für Herdentiere entwickelt werden.
+
+Mithilfe der LoRa Funkübertragung werden die GPS-Daten von der Platine an der Kuh an einen Empfänger auf der Alm übermittelt und zusätzlich in einem kürzeren Zeitintervall auf einer SD-Karte gespeichert. Von dort aus werden die Daten an eine REST-API gesendet und in eine SQL-Datenbank gespeichert. Von dieser werden die Daten an den Nutzer übermittelt.

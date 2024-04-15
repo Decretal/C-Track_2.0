@@ -1,0 +1,18 @@
+C-Track 2.0: Lokalisierungseinheit für Weidetiere 
+
+Teaser:
+Sie suchen ihre Kühe? Mit unserer Nutztierlokalisierungseinheit ist dies ein Problem der Vergangenheit. Man kann den Standort des ausfallsicheren Trackers rund um die Uhr per App abrufen und zusätzlich am Ende der Saison über eine SD-Karte auswerten.
+
+Ausgangslage
+Die genaue Lokalisierung von Nutztieren in alpinen Lagen ist von großem praktischen als auch von wissenschaftlichem Interesse. Derzeit am Markt befindliche Lösungen sind technisch unausgereift oder dementsprechend teuer. Deshalb sollte eine einfache und robuste Lokalisierungseinheit für Herdentiere entwickelt werden.
+
+Zielsetzung
+Das Ziel ist die Entwicklung einer ausfallsicheren Lokalisierungseinheit für Nutztiere. Die dadurch gesammelten Daten können sowohl zur Analyse des sozialen Herdenverhaltens gespeichert werden, als auch auch dem Landwirt bei der Suche und dem Überprüfen des Wohlbefindens der Tiere helfen. Das Userinterface soll dabei so benutzerfreundlich wie möglich gestaltet sein.
+
+Realisierung
+Mithilfe des LoRaWan Netzwerks werden die GPS-Daten von der Platine an der Kuh an einen Empfänger auf der Alm übmittelt und zusätzlich in einem kürzeren Zeitintervall auf einer SD-Karte gespeichert. Von dort aus werden die Daten an eine REST-API gesendet und in eine SQL-Datenbank gespeichert. Von dieser werden die Daten an den Nutzer übermittelt.
+
+Projektteam: Samuel Putz, Simon König
+Betreuer: Prof. Dipl.-Ing. Siegbert Schrempf
+
+
