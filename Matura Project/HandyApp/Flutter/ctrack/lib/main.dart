@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Future<void> fetchMarkerPosition() async {
-    String url = 'http://192.168.136.152:8000/api/trackers/1/positions';   //Server Url
+    String url = 'http://192.168.246.152:8000/api/trackers/1/positions';   //Server Url
     String token = 'Bearer 1|wwGyHyxhlLxlRHhAuIIGDmGqjZ6saHcQdzjYF9cif7715c39'; //Account
 
     try {
