@@ -1,8 +1,0 @@
-Titel: C-Track 2.0 - Lokalisierungseinheit für Nutztiere
-
-C-Track ist ein zuverlässiger GPS-Tracker, der speziell für die Lokalisierung von Kühen in alpinen Regionen entwickelt wurde. Die Positionen der Kühe können über eine Handy-App abgerufen werden. Zusätzlich werden die Positionsdaten auf einer SD-Karte gespeichert, um am Ende der Saison umfassende Auswertungen und Analysen zu ermöglichen. Dieses robuste System gewährleistet eine zuverlässige Überwachung in anspruchsvollen alpinen Umgebungen.
-
-Projektteam: Samuel Putz, Simon König
-Betreuer: Prof. Dipl.-Ing. Siegbert Schrempf
-
-
